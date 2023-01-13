@@ -1,2 +1,3 @@
 # lisp-evaluators
-Lisp-based evaluators for an extended lambda calculus
+
+Lambda calculus evaluators and type solvers implemented in Racket, a Lisp dialect.
